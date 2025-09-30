@@ -9,3 +9,7 @@ function restar(){
 function multiplicar(){
     return 2 * 2;
 }
+
+function dividir(){
+    return 2 / 2;
+}
