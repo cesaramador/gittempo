@@ -13,3 +13,8 @@ function multiplicar(){
 function dividir(){
     return 2 / 2;
 }
+
+console.log(sumar());
+console.log(restar());
+console.log(multiplicar());
+console.log(dividir());
