@@ -3,3 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+}
